@@ -1,0 +1,8 @@
+item,category,disposal_method,impact
+plastic bottle,Recyclable,Put in recycling bin,Recycling plastic reduces landfill waste and conserves resources
+banana peel,Biodegradable,Compost it,Composting reduces methane emissions from landfills
+old battery,Hazardous,E-waste collection center,Proper disposal prevents soil and water contamination
+newspaper,Recyclable,Paper recycling bin,Recycling paper saves trees and energy
+broken charger,E-Waste,E-waste collection center,Proper e-waste recycling recovers valuable materials
+glass bottle,Recyclable,Glass recycling bin,Glass can be recycled indefinitely
+food waste,Biodegradable,Compost bin,Composting creates nutrient-rich soil
